@@ -1,0 +1,17 @@
+{
+	"name": "dfdevmey",
+	"properties": {
+		"globalParameters": {
+			"GL_KV_NAME": {
+				"type": "string",
+				"value": "kv-njl-adf-cicd-dev"
+			}
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "deab6f5a-f83d-4092-afa6-4d44472fd3c7",
+		"tenantId": "b3e8562c-f6ae-4ff2-b59f-cba5cfbf8fcf"
+	}
+}
