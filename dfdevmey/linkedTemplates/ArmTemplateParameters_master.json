@@ -5,8 +5,14 @@
 		"factoryName": {
 			"value": "dfdevmey"
 		},
+		"AzureFunction1_functionKey": {
+			"value": ""
+		},
 		"LS_ADLS_accountKey": {
 			"value": ""
+		},
+		"AzureFunction1_properties_typeProperties_functionAppUrl": {
+			"value": "https://dev-function-app-habffje8fwfshxer.uaenorth-01.azurewebsites.net"
 		},
 		"LS_ADLS_properties_typeProperties_url": {
 			"value": "https://devmey.dfs.core.windows.net/"
